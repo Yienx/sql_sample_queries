@@ -1,1 +1,5 @@
 # sql_sample_queries
+
+This is contains random SQL queries such as 
+- DATA QUERY LANGUAGES (DQL - SELECT, JOINS, SUBQUERIES, STORED PROCEDURES, ETC)
+- DATA MANIPULATION LANGUAGE (DML - CREATE, DROP, ETC).
